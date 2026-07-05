@@ -1,6 +1,0 @@
-.vscode/
-**/screenshots/*.psd
-**/artifacts/*secrets*.*
-**/artifacts/*password*.*
-*.pyc
-__pycache__/
