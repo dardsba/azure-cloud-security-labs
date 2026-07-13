@@ -95,7 +95,7 @@ The CLI output confirmed:
 
 ![Contributor created container](06-contributor-created-container.png)
 
-![CLI role assignment check](07-cli-role-assignment-check.png)
+![CLI role assignment check](07-cli-role-assignment-check.png.)
 
 ## Key Takeaways
 - Azure RBAC controls what users can do on a resource.
